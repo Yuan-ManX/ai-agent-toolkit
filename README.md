@@ -5,7 +5,7 @@ Explore the latest AI Agent Toolkit! 🎆
 ## Table of Contents
 
 * [AI Agent Framework](#agent)
-* [Vector Databases](#db)
+* [Memory](#memory)
 
 
 ## Project List
@@ -99,7 +99,7 @@ Explore the latest AI Agent Toolkit! 🎆
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
 
-###  <span id="db">Vector Databases</span>
+###  <span id="memory">Memory</span>
 
 | Source                                                                                      | Description                                                                                                                                                                                    |  Code  |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
