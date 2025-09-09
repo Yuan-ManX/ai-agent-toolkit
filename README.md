@@ -6,7 +6,7 @@ Here we will keep track of the latest AI Agent Toolkit, including AI Agent Frame
 
 * [AI Agent Framework](#agent)
 * [Memory](#memory)
-* [Prompt & Context Engineering ](#CE)
+* [Prompt & Context Engineering](#CE)
 * [Mutimodel](#mm)
 * [Browser & Web](#bw)
 * [MCP & Tool](#tool)
@@ -122,3 +122,12 @@ Here we will keep track of the latest AI Agent Toolkit, including AI Agent Frame
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
+
+###  <span id="CE">Prompt & Context Engineering</span>
+
+| Source                                                                                      | Description                                                                                                                                                                                    |  Code  |   Paper   |
+| :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
+| [DSPy](https://dspy.ai/)                                 | DSPy: The framework for programming—not prompting—language models.                                                                                         | [GitHub](https://github.com/stanfordnlp/dspy)                    |                                                   |
+
+
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
