@@ -6,7 +6,7 @@ Here we will keep track of the latest AI Agent Toolkit, including AI Agent Frame
 
 * [AI Agent Framework](#agent)
 * [Memory](#memory)
-* [Prompt & Context Engineering](#CE)
+* [Prompt & Context Engineering](#ce)
 * [Mutimodel](#mm)
 * [Browser & Web](#bw)
 * [MCP & Tool](#tool)
@@ -55,7 +55,6 @@ Here we will keep track of the latest AI Agent Toolkit, including AI Agent Frame
 | [Dify](https://dify.ai/)                                                  | Dify is an open-source LLM app building platform.                                                                                                                  | [GitHub](https://github.com/langgenius/dify)             |                                                   |
 | [Digital Life Project](https://digital-life-project.com/)                 | Autonomous 3D Characters with Social Intelligence.                                                                                                                 |                                                          | [arXiv](https://arxiv.org/abs/2312.04547)         |
 | [DSPy](https://github.com/stanfordnlp/dspy)                               | DSPy is the framework for solving advanced tasks with language models (LMs) and retrieval models (RMs).                                                            | [GitHub](https://github.com/stanfordnlp/dspy)            | [arXiv](https://arxiv.org/abs/2310.03714)         |
-| [E2B](https://e2b.dev/docs)                                               | Cloud Runtime for AI Agents.                                                                                                                                       | [GitHub](https://github.com/e2b-dev/E2B)                 |                                                   |
 | [everything-ai](https://github.com/AstraBert/everything-ai)               | Your fully proficient, AI-powered and local chatbot assistant🤖.                                                                                                  | [GitHub](https://github.com/AstraBert/everything-ai)                 |                                                   |
 | [fabric](https://github.com/danielmiessler/fabric)                        | fabric is an open-source framework for augmenting humans using AI.                                                                                                 | [GitHub](https://github.com/danielmiessler/fabric)       |                                                   |
 | [FastGPT](https://fastgpt.in/)                                            | FastGPT is a knowledge-based platform built on the LLM.                                                                                                            | [GitHub](https://github.com/labring/FastGPT)             |                                                   |
@@ -123,11 +122,21 @@ Here we will keep track of the latest AI Agent Toolkit, including AI Agent Frame
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
 
-###  <span id="CE">Prompt & Context Engineering</span>
+###  <span id="ce">Prompt & Context Engineering</span>
 
 | Source                                                                                      | Description                                                                                                                                                                                    |  Code  |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
 | [DSPy](https://dspy.ai/)                                 | DSPy: The framework for programming—not prompting—language models.                                                                                         | [GitHub](https://github.com/stanfordnlp/dspy)                    |                                                   |
+
+
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
+
+###  <span id="sec">Security</span>
+
+| Source                                                                                      | Description                                                                                                                                                                                    |  Code  |   Paper   |
+| :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
+| [E2B](https://e2b.dev/docs)                                               | Cloud Runtime for AI Agents.                                                                                                                                       | [GitHub](https://github.com/e2b-dev/E2B)                 |                                                   |
 
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
